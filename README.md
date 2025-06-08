@@ -1,35 +1,28 @@
-🚀 Software Developer & HMI Designer | Bridging Code & Creativity  
-👨‍💻 Specializing in Android, Automotive UI, and Cross-Platform App Development
+# 👋 Hi there, I'm Rahul
 
-💡 I craft seamless Human-Machine Interfaces with a keen eye for design and a solid engineering mindset.
-Skilled in building scalable apps and next-gen infotainment experiences using:
+🚀 **Software Developer** | 🎨 **HMI/UX Engineer** | 🤖 **AI/ML Enthusiast**  
+💡 Passionate about building intelligent, beautiful apps across mobile, automotive, and embedded platforms.
 
-🔧 Tools & Technologies:
+---
 
-  - Languages: Java, Kotlin, Dart, JavaScript
+## 🛠️ Tech Stack
+- **Languages:** `Kotlin` · `Java` · `Dart` · `JavaScript`
+- **Mobile Frameworks:** Android SDK · **Jetpack Compose** · **Flutter**
+- **Design Tools:** Figma · Adobe XD · Material Design
+- **Testing:** JUnit · Espresso · UI Automation
+- **Specialties:** Android Automotive OS · HMI Development · UX Engineering
+- **Interests:** AI/ML · On-device intelligence · Predictive UX
 
-  - Frameworks: Flutter, Jetpack Compose
+---
 
-  - Testing: JUnit, Espresso, UI Automation
+## ⚙️ What I Do
+- Build seamless **Human-Machine Interfaces** for modern automotive systems 🚘  
+- Create **cross-platform apps** with elegant UI/UX ✨  
+- Bridge design & development with performance, usability, and scale  
+- Explore **AI/ML** to bring smart behavior to apps 🤖
 
-  - Design: Figma, Adobe XD, Material Design
+---
 
-Specialties: Android Automotive, HMI Development, Motion Layout, REST APIs
-
-🧠 Passionate about creating intuitive user flows, pixel-perfect UI, and performant code.
-🌍 Open to collaboration, learning, and solving real-world problems with tech.
-
-<!--
-**rahuldev-0011/rahuldev-0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+Open to collaborations, creative ideas, and futuristic UI challenges.  
+Let’s build products that are smart, scalable, and delightful to use.
